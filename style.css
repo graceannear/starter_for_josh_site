@@ -1,0 +1,38 @@
+body{
+font-size:16px;
+font-family: arial, sans-serif;
+}
+
+.navbar{
+font-size:0.875em;
+}
+    
+    
+a{
+color:whitesmoke;}
+
+a:hover{
+color:coral;
+}
+
+.nav > li > a:hover {
+background-color: transparent;
+}
+
+.herobg{
+background: url(Images/header.jpg); 
+background-size:cover;
+}
+
+.herobg h1 {
+float:right;
+color:#ffff;
+width:341px;
+font-size:6.1em;
+letter-spacing: -10px;
+font-weight:800px;
+line-height:75%;
+margin-top:140px;
+text-align: right;
+padding-bottom: 10%;
+}
